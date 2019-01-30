@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Alarm</string>
+    <string name="textView">TextView</string>
+    <string name="Alarm">Alarm: </string>
+    <string name="aInst">alarmTxt</string>
+    <string name="onBtn">Alarm On</string>
+    <string name="offBtn">Alarm Off</string>
+
+</resources>
